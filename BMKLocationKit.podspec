@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BMKLocationKit"
-  s.version      = "2.0.0"
+  s.version      = "2.0.1"
   s.summary      = "Baidu IOS Location SDK"
 
   # This description is used to generate tags and improve search results.
@@ -26,6 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
                    百度地图iOS定位SDK，是百度地图开放平台面向广大iOS端移动应用开发者全新推出的一款定位服务产品。开发者在自己的iOS移动应用中集成定位SDK，可轻松实现获取当前位置信息的功能。百度地图iOS定位SDK以iOS系统定位能力为基础，在此基础之上，面向广大开发者提供了更多丰富功能，包括：地址解析、位置描述、移动热点识别、地理围栏、国内外位置判断等功能。
+                   2.0.0 Module支持
                    DESC
 
   s.homepage     = "http://lbsyun.baidu.com/index.php?title=ios-locsdk"
@@ -80,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/jiangfangsheng/BMKLocationKit.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/Z-JaDe/BMKLocationKit.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
