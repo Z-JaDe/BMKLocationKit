@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "BMKLocationKit-Swift"
+  s.name         = "BMKLocationKit"
   s.version      = "2.0.0"
   s.summary      = "Baidu IOS Location SDK"
 
